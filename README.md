@@ -1,11 +1,11 @@
 # 𝙺𝙴𝙻𝙻𝚈𝙼𝙾𝚆𝙻 𝗩4
 <div align="center">
-        <img border-radius: 15px src="https://i.imgur.com/h0S3Z4D.png" width="200" height="200"/>
+        <img border-radius: 15px src="20220330_080524.jpg" width="200" height="200"/>
 </p>
 
 
 ```
-BOT IN WORKING📌
+KELLY MOWL BOT BY FAYAS SUBAIR 
 ```
 <div align="center">
 
