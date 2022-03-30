@@ -1,6 +1,6 @@
 {
-    "name": "CATBOTS",
-    "description": "catbots - Whatsapp Bot",
+    "name": "KELLYMOWL",
+    "description": "KELLYMOWL - Whatsapp Bot",
     "logo": "https://i.imgur.com/HBlOhMc.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Itsmebasil0/catbot1",
@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "CATBOT_SESSION": {
+        "KELLY_SESSION": {
             "description": "catbot session changed! Onnude scan cheythu code koduku.",
             "required": true
         },
