@@ -22,7 +22,7 @@ BOT IN WORKING📌
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/itsmebasil0">fayas-sir</a> to make it public
     <br>
        | © |
         Reserved |
@@ -85,8 +85,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/fayas-sir/KELLYMOWL
+$ cd KELLYMOWL
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -95,8 +95,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/fayas-sir/KELLYMOWL
+$ cd KELLYMOWL
 $ chmod +x *
 $ npm i
 $ node qr.js
